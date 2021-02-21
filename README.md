@@ -22,3 +22,5 @@ Over the time these depencies need to be updated, to do so run the same command 
 
 Note: this program is not finished yet, so the Python code will change over time!
 Do you want to support us? Please give this repository a star!
+
+![Alt text](http://woutvos.nl/images/Hue-colors-on-Spotify-genre_logo.png)
