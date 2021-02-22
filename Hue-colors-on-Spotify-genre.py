@@ -10,7 +10,7 @@ genres_to_c = {"dance pop":255, "pop":120, "alternative r&b": 255, "latin": 255}
 b = Bridge('192.168.1.0') #The ip of your hue bridge
 client_id = '' #Your spotify client id, get one from https://developer.spotify.com/dashboard
 client_secret = '' #Your spotify client secret, get one from https://developer.spotify.com/dashboard
-lights_to_change = ['kitchen', 'Bedroom'] #The name lights you want to change
+lights_to_change = ['kitchen', 'Bedroom'] #The name of the lights you want to change
 
 # Connect to the spotify api
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
