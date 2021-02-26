@@ -8,13 +8,13 @@ This repository will show you how to make your Philips Hue lights change color w
 
 First we have to install the required depencies, to do so you can run the following command:
 
-```pip install -r requirements.txt```
+```(py -m) pip install -r requirements.txt```
 
 or
 
-```py - m pip install phue```,
-```py - m pip install spotipy```,
-```py - m pip install SwSpotify```
+```(py -m) pip install phue```,
+```(py -m) pip install spotipy```,
+```(py -m) pip install SwSpotify```
 
 Over the time these depencies need to be updated, to do so run the same command but add ```-- upgrade``` at the end!
 
