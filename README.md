@@ -19,7 +19,7 @@ or
 Over the time these depencies need to be updated, to do so run the same command but add ```-- upgrade``` at the end!
 
 # Extra information
-
+This program is tested on Python 3.8.8.
 Note: this program is not finished yet, so the Python code will change over time!
 Do you want to support us? Please give this repository a star!
 
